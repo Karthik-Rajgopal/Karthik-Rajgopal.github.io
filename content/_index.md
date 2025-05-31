@@ -63,7 +63,8 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: compact
+      view: article-grid
+      columns: 3
   - block: collection
     id: talks
     content:

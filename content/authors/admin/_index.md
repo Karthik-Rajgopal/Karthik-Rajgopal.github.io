@@ -54,8 +54,8 @@ interests:
 education:
   - area: MEng Mechanical Engineering (Control of Robotics & Autonomous Systems track)
     institution: University of California, Berkeley
-    date_start: 08-01-2024
-    date_end: 05-21-2025
+    date_start: 2024-08-01
+    date_end: 2025-05-21
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://example.com'
   - area: BEng Mechanical Engineering
     institution: Birla Institute of Technology & Science (BITS) Pilani, Pilani Campus
-    date_start: 08-01-2019
-    date_end: 05-31-2023
+    date_start: 2019-08-01
+    date_end: 2023-05-31
     summary: |
       GPA: 3.8/4.0
 

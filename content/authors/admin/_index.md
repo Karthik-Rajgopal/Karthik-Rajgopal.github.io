@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MEng Graduate
+role: MEng '25 Graduate
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: UC Berkele
-#     url: https://openai.com/
+organizations:
+  - name: UC Berkeley
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

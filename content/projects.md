@@ -17,7 +17,7 @@ sections:
         folders:
           - project
     design:
-      view: card
-      fill_image: true
+      view: article-grid
+      fill_image: false
       columns: 1
 ---

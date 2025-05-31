@@ -8,6 +8,12 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Contributions:
+- Developed the CAD of the biped using SolidWorks and assembled the whole robot.
+- Iteratively prototyped throughout the project using 3D printing (FDM). 
+
+Technical Skills:
+- SolidWorks
+- 3D Printing
 
 <!--more-->

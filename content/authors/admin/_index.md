@@ -11,7 +11,7 @@ last_name: Rajgopal
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MEng Graduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:karthik_rajgopal@berkeley.edu'
-    label: E-mail Me
+    label: E-mail 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram

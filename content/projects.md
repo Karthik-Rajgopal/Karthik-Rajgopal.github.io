@@ -18,6 +18,6 @@ sections:
           - project
     design:
       view: card
-      fill_image: false
+      fill_image: true
       columns: 1
 ---

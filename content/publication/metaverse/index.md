@@ -17,7 +17,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2022-11-04T00:00:00Z'
-doi: '10.1109/ACCESS.2022.3219845'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'

@@ -100,7 +100,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: citation
+      view: card
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

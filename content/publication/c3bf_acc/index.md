@@ -1,14 +1,14 @@
 ---
-title: 'Stoch BiRo: Design and Control of a Low-Cost Bipedal Robot'
+title: 'Collision Cone Control Barrier Functions: Experimental Validation on UGVs for Kinematic Obstacle Avoidance'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - GVS Mothish
-  - Ravi Kola
+  - Bhavya Giri Goswami
   - Manan Tayal
+  - admin
+  - Pushpak Jagtap
   - Shishir Kolathaya
 
 # Author notes (optional)
@@ -16,7 +16,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-06-28T00:00:00Z'
+date: '2024-09-05T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*ICCAR 2024*"
+publication: "*American Control Conference (ACC) 2024*"
 publication_short: ''
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -45,10 +45,10 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: IEEE Access
-  url: https://ieeexplore.ieee.org/document/10569443
+  url: https://ieeexplore.ieee.org/abstract/document/10644338
 - name: Project Page
-  url: https://tayalmanan28.github.io/Stoch-BiRo/
-url_pdf: 'stochbiro.pdf'
+  url: https://tayalmanan28.github.io/C3BF-UGV/
+url_pdf: 'c3bf_acc.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

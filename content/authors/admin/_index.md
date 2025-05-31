@@ -57,10 +57,21 @@ education:
     date_start: 2024-08-01
     date_end: 2025-05-21
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+      
+      GPA: 3.6/4.0
+
+      Courses included:
+      - Experiential Advanced Control Design I (Model Predictive Control)
+      - Experiential Advanced Control Design II (State Estimation - Bayesian Tracking, Kalman Filter [EKF, UKF], Particle Filter)
+      - Advanced Product Development 
+      - Modeling & Control of Multi-Agent Systems
+      - Deep Tech Commercialization Strategies
+      - Lean LaunchPad
+
   - area: BEng Mechanical Engineering
     institution: Birla Institute of Technology & Science (BITS) Pilani, Pilani Campus
     date_start: 2019-08-01
@@ -68,34 +79,29 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Project Associate
+    company_name: Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science
+    company_url: 'https://www.stochlab.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-08-01
+    date_end: '2024-06-15'
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Responsibilities included:
+      - Developed a 3D printed bipedal robot called StochBiRo actuated through a dual-stage HTD timing belt transmission (3:1 at each stage).
+      - Designed a 3-DOF robotic leg driven using compound planetary actuators for a 25 kg payload capacity quadruped.
+      - Implemented and verified a real-time safety filter named Collision Cone Control Barrier Functions on unicycle and bicycle kinematic models. 
+  - position: Developer Intern
+    company_name: Madras MindWorks Pvt. Ltd. 
+    company_url: 'https://madrasmindworks.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-05-15
+    date_end: 2021-07-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
+      - Developed cricket graphical analytics for a VR cricket game, CricketR on the Canvas platform in Unity engine.
+      - Implemented classes for each analytics in C#, utilizing JSON for efficient data transmission from user gameplay.
+      - Designed and integrated an intuitive UI, enhancing the user experience for efficient performance evaluation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,7 +112,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: SolidWorks
         description: ''
         percent: 100
         icon: chart-bar
@@ -134,10 +140,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Malayalam
+    percent: 100
+  - name: Hindi
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.

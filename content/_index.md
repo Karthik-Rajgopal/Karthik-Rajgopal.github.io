@@ -76,7 +76,7 @@ sections:
   #     view: article-grid
   #     columns: 1
   - block: collection
-    id: news
+    id: publication
     content:
       title: Publications
       subtitle: ''
@@ -100,7 +100,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: citation
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

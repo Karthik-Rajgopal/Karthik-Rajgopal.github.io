@@ -60,9 +60,8 @@ sections:
       # subtitle: ''
   - block: collection
     content:
-      title: 'bruh'
-      subtitle: Mechanical Design
-      text: ""
+      title: ''
+      text: "Mechanical Design"
       count: 0
       filters:
         folders:

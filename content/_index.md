@@ -61,7 +61,7 @@ sections:
     design:  
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '10px', '0']
+        padding: ['20px', '0', '5px', '0']
   - block: collection
     content:
       title: ''
@@ -77,7 +77,7 @@ sections:
       fill_image: false
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['10px', '0', '10px', '0']
+        padding: ['5px', '0', '5px', '0']
   - block: markdown
     content:
       title: ''
@@ -85,7 +85,7 @@ sections:
     design:  
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['10px', '0', '10px', '0']
+        padding: ['5px', '0', '5px', '0']
   - block: collection
     content:
       title: ''
@@ -101,7 +101,55 @@ sections:
         fill_image: false
         spacing:
           # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ['10px', '0', '10px', '0']
+          padding: ['5px', '0', '5px', '0']
+  - block: markdown
+    content:
+      title: ''
+      text: "**State Estimation**"
+    design:  
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['5px', '0', '5px', '0']
+  - block: collection
+    content:
+      title: ''
+      text: ""
+      count: 0
+      filters:
+        folders:
+          - stateest
+        exclude_featured: true
+      design:
+        view: article-grid
+        columns: 1
+        fill_image: false
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['5px', '0', '5px', '0']
+  - block: markdown
+    content:
+      title: ''
+      text: "**Berkeley Haas Courses**"
+    design:  
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['5px', '0', '5px', '0']
+  - block: collection
+    content:
+      title: ''
+      text: ""
+      count: 0
+      filters:
+        folders:
+          - mba
+        exclude_featured: true
+      design:
+        view: article-grid
+        columns: 2
+        fill_image: false
+        spacing:
+          # Customize the section spacing. Order is top, right, bottom, left.
+          padding: ['5px', '0', '5px', '0']
   # - block: collection
   #   id: talks
   #   content:

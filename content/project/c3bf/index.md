@@ -1,9 +1,9 @@
 ---
-title: "StochBiRo: Bipedal Robot"
-date: 2023-05-15
-external_link: "https://tayalmanan28.github.io/Stoch-BiRo/"
+title: "Collision Cone Control Barrier Functions"
+date: 2024-05-15
+external_link: "https://tayalmanan28.github.io/C3BF-UGV/"
 tags:
-  Mechanical Design
+  Control Systems
 ---
 
 <!-- - Contributions:

@@ -60,8 +60,7 @@ sections:
       # subtitle: ''
   - block: collection
     content:
-      title: ''
-      subtitle: Mechanical Design
+      title: 'Mechanical Design'
       text: ""
       count: 0
       filters:

@@ -60,7 +60,7 @@ sections:
       # subtitle: ''
   - block: collection
     content:
-      title: ''
+      title: 'bruh'
       subtitle: 'Mechanical Design'
       text: ""
       count: 0

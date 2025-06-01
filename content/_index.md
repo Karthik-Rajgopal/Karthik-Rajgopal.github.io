@@ -57,19 +57,20 @@ sections:
   - block: markdown
     content:
       title: Projects
-    - block: collection
-      content:
-        title: Mechanical Design
-        text: ""
-        count: 0
-        filters:
-          folders:
-            - mechdesign
-          exclude_featured: true
-      design:
-        view: article-grid
-        columns: 1
-        fill_image: false
+      text: "**Mechanical Design**"
+  - block: collection
+    content:
+      title: ''
+      text: ""
+      count: 0
+      filters:
+        folders:
+          - mechdesign
+        exclude_featured: true
+    design:
+      view: article-grid
+      columns: 1
+      fill_image: false
   # - block: collection
   #   id: talks
   #   content:

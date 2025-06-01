@@ -65,8 +65,8 @@ sections:
       count: 0
       filters:
         folders:
-          - project/mechdesign/
-        exclude_featured: true
+          - /project/mechdesign/
+        exclude_featured: false
     design:
       view: article-grid
       columns: 3

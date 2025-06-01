@@ -1,7 +1,7 @@
 ---
 title: "Smpler: Real Estate Platform"
 date: 2025-05-05
-external_link: "https://deeptech.berkeley.edu/wp-content/uploads/2025/03/Quantum-Circuits-for-Superconducting-Digital-Computing-12_9_2024.pptx.pdf"
+external_link: "https://drive.google.com/file/d/1KxrYn2VzI0Tqk71-3M3yu9F66p7aipy_/view?usp=sharing"
 tags:
   Lean LaunchPad
 ---

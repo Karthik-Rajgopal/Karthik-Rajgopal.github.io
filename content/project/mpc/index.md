@@ -1,9 +1,9 @@
 ---
-title: "Collision Cone Control Barrier Functions"
-date: 2024-05-15
-external_link: "https://tayalmanan28.github.io/C3BF-UGV/"
+title: "Optimized Path Planning for Parallel Parking"
+date: 2024-12-15
+external_link: "https://drive.google.com/file/d/1-3QJFAdlC_Z_E_s5Pfd1Y3K4z_mUDcPc/view?usp=sharing"
 tags:
-  Safety-Critical Controls
+  Model Predictive Control
 ---
 
 <!-- - Contributions:

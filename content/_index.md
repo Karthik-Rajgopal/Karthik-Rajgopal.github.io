@@ -64,7 +64,7 @@ sections:
         exclude_featured: false
     design:
       view: article-grid
-      columns: 3
+      columns: 2
   # - block: collection
   #   id: talks
   #   content:

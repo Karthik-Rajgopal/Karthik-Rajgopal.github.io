@@ -60,12 +60,13 @@ sections:
       # subtitle: ''
   - block: collection
     content:
+      title: ''
       subtitle: Mechanical Design
       text: ""
       count: 0
       filters:
         folders:
-          - project/mechdesign
+          - project/mechdesign/
         exclude_featured: true
     design:
       view: article-grid

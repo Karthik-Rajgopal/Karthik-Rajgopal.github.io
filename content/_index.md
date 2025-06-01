@@ -54,14 +54,18 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  - block: collection
+  - block: markdown
     content:
       title: Projects
+      subtitle: ''
+  - block: collection
+    content:
+      title: Mechanical Design
       text: ""
       count: 0
       filters:
         folders:
-          - project
+          - project/mechdesign
         exclude_featured: true
     design:
       view: article-grid

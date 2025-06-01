@@ -95,13 +95,13 @@ sections:
       folders:
         - controls
       exclude_featured: true
-  design:
-    view: article-grid
-    columns: 1
-    fill_image: false
-    spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ['10px', '0', '10px', '0']
+    design:
+      view: article-grid
+      columns: 1
+      fill_image: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['10px', '0', '10px', '0']
   # - block: collection
   #   id: talks
   #   content:

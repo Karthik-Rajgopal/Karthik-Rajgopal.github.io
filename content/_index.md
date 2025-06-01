@@ -57,10 +57,10 @@ sections:
   - block: markdown
     content:
       title: Projects
-      subtitle: ''
+      # subtitle: ''
   - block: collection
     content:
-      title: Mechanical Design
+      subtitle: Mechanical Design
       text: ""
       count: 0
       filters:

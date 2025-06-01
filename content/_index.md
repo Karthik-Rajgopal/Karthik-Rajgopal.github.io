@@ -94,7 +94,7 @@ sections:
       filters:
         folders:
           - controls
-        exclude_featured: true
+        exclude_featured: false
       design:
         view: article-grid
         columns: 3

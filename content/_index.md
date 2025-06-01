@@ -58,6 +58,7 @@ sections:
     content:
       title: Projects
       text: ""
+      count: 0
       filters:
         folders:
           - project

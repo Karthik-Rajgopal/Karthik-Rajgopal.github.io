@@ -80,7 +80,7 @@ sections:
         padding: ['10px', '0', '10px', '0']
   - block: markdown
     content:
-      title: Projects
+      title: ''
       text: "**Controls**"
     design:  
       spacing:

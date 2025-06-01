@@ -66,10 +66,10 @@ sections:
       filters:
         folders:
           - /project/mechdesign/
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: article-grid
-      columns: 3
+      columns: 1
       fill_image: false
   # - block: collection
   #   id: talks

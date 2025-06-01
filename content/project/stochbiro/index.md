@@ -1,7 +1,9 @@
 ---
 title: "StochBiRo: Design and Control of a Biped Robot"
-# date: ''
+date: 2023-05-15
 external_link: "https://tayalmanan28.github.io/Stoch-BiRo/"
+tags:
+
 ---
 
 <!-- - Contributions:

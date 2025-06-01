@@ -61,7 +61,7 @@ sections:
   - block: collection
     content:
       title: 'bruh'
-      subtitle: 'Mechanical Design'
+      subtitle: Mechanical Design
       text: ""
       count: 0
       filters:

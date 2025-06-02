@@ -144,8 +144,8 @@ languages:
     percent: 100
   - name: Hindi
     percent: 50
-  - name: Spanish
-    percent: 10
+  # - name: Spanish
+  #   percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -181,10 +181,8 @@ awards:
 
 ## About Me
 
-I’m a robotics engineer passionate about building intelligent, high-performance robotic systems through advanced control and mechanical design. I hold an MEng in Mechanical Engineering (Robotics & Control Systems) from UC Berkeley, where I worked on reinforcement learning-based drone racing controllers, hybrid coverage strategies for aerial-ground robot teams, and MPC for autonomous parking.
+I’m a robotics engineer with an MEng from UC Berkeley, where I worked on RL-based drone racing, multi-robot coordination, and MPC for autonomous systems. Previously, at Indian Institute of Science, I designed a quadruped and developed safety-critical controllers.
 
-Before that, I designed a quadruped robot and developed safety-critical control algorithms using Control Barrier Functions at the Indian Institute of Science. My technical focus spans model predictive control (MPC), reinforcement learning (RL), and multi-agent coordination, with hands-on experience in mechanical design, and control implementation.
+My focus spans control, learning, and mechanical design, with exposure to tech commercialization through Berkeley Haas courses like Lean Launchpad.
 
-In parallel, I explored the business side of innovation through Berkeley Haas courses like Lean Launchpad and Deep Tech Commercialization. These experiences exposed me to customer discovery, competitive analysis, and the process of translating advanced technologies into viable market solutions.
-
-Let’s connect if you’re interested in robotics, AI-driven controls, or deep-tech ventures.
+Let’s connect if you’re into robotics, intelligent control, or deep-tech ventures.

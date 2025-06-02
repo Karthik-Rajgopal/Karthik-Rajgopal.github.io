@@ -3,15 +3,15 @@
 title: Karthik Rajgopal
 
 # Name pronunciation (optional)
-name_pronunciation: 'Karthik Rajgopal'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Karthik
 last_name: Rajgopal
 
-# Status emoji
-status:
-  # icon: ☕️
+# # Status emoji
+# status:
+#   # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true

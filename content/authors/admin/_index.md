@@ -156,7 +156,7 @@ awards:
     url: http://vcicberkeley.org/
     date: '2025-02-14'
     awarder: Berkeley Haas
-    icon: custom/vcic
+    icon: "custom/vcic"
     summary: |
       My team came Second Place in Berkeley level of this competition. We conducted founder due diligence, valuation, and competitive analysis to assess venture investment opportunities. As part of this competition, we participated in partner meetings, drafted term sheets with key terms, and performed market research on startups.
   # - title: Blockchain Fundamentals

@@ -160,7 +160,7 @@ awards:
     summary: |2-
       My team came Second Place in Berkeley level of this competition. We conducted founder due diligence, valuation, and competitive analysis to assess venture investment opportunities. As part of this competition, we participated in partner meetings, drafted term sheets with key terms, and performed market research on startups.
 
-      <img src="vcicteamphoto.jpeg" alt="Karthik Rajgopal" width="150" style="border-radius: 50%;"><br>
+      <img src="vcicteamphoto.jpeg">
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'

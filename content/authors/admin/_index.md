@@ -157,8 +157,10 @@ awards:
     date: '2025-02-14'
     awarder: Berkeley Haas
     # icon: "custom/vcic"
-    summary: |
+    summary: |2-
       My team came Second Place in Berkeley level of this competition. We conducted founder due diligence, valuation, and competitive analysis to assess venture investment opportunities. As part of this competition, we participated in partner meetings, drafted term sheets with key terms, and performed market research on startups.
+
+      <img src="vcicteamphoto.jpeg" alt="Karthik Rajgopal" width="150" style="border-radius: 50%;"><br>
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
@@ -183,6 +185,6 @@ awards:
 
 I’m a robotics engineer with an MEng from UC Berkeley, where I worked on RL-based drone racing, multi-robot coordination, and MPC for autonomous systems. Previously, at Indian Institute of Science, I designed a quadruped and developed safety-critical controllers.
 
-My focus spans control, learning, and mechanical design, with exposure to tech commercialization through Berkeley Haas courses like Lean Launchpad.
+My focus spans control, learning, and mechanical design, with exposure to tech commercialization through Berkeley Haas courses like Lean LaunchPad & Deep Tech Commercialization Strategies.
 
 Let’s connect if you’re into robotics, intelligent control, or deep-tech ventures.

@@ -45,14 +45,6 @@ sections:
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Competitions
-      username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -213,6 +205,14 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: resume-awards
+    content:
+      title: Competitions
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

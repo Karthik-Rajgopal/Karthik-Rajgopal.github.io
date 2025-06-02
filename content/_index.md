@@ -95,13 +95,13 @@ sections:
         folders:
           - controls
         exclude_featured: false
-      design:
-        view: article-grid
-        columns: 3
-        fill_image: false
-        # spacing:
-        #   # Customize the section spacing. Order is top, right, bottom, left.
-        #   padding: ['5px', '0', '5px', '0']
+    design:
+      view: article-grid
+      columns: 3
+      fill_image: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['5px', '0', '5px', '0']
   - block: markdown
     content:
       title: ''
@@ -119,13 +119,13 @@ sections:
         folders:
           - stateest
         exclude_featured: true
-      design:
-        view: article-grid
-        columns: 1
-        fill_image: false
-        spacing:
-          # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ['5px', '0', '5px', '0']
+    design:
+      view: article-grid
+      columns: 1
+      fill_image: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['5px', '0', '5px', '0']
   - block: markdown
     content:
       title: ''
@@ -143,13 +143,13 @@ sections:
         folders:
           - mba
         exclude_featured: true
-      design:
-        view: article-grid
-        columns: 2
-        fill_image: false
-        spacing:
-          # Customize the section spacing. Order is top, right, bottom, left.
-          padding: ['5px', '0', '5px', '0']
+    design:
+      view: article-grid
+      columns: 2
+      fill_image: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['5px', '0', '5px', '0']
   # - block: collection
   #   id: talks
   #   content:

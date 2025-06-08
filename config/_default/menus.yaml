@@ -17,6 +17,10 @@ main:
     identifier: tags
     url: /#projects
     weight: 30
+  - name: Mechanical Design
+    parent: tags
+    url: tags/Mechanical Design/
+    weight: 10
   - name: Publications
     url: /#publication
     weight: 40

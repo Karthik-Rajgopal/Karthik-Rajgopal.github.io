@@ -19,7 +19,7 @@ main:
     weight: 30
   - name: Mechanical Design
     parent: tags
-    url: tags/Mechanical Design/
+    url: /#mechdesign
     weight: 10
   - name: Publications
     url: /#publication

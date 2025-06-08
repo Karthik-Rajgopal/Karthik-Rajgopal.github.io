@@ -79,6 +79,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '5px', '0']
   - block: collection
+    id: mechdesign
     content:
       title: ''
       text: ""

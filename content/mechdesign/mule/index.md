@@ -1,9 +1,9 @@
 ---
-title: "StochBiRo: Bipedal Robot"
+title: "Quadruped Leg Design"
 date: 2023-05-15
-external_link: "https://tayalmanan28.github.io/Stoch-BiRo/"
+external_link: ""
 tags:
-  Legged Robots 
+  Legged Robots
 ---
 
 <!-- - Contributions:

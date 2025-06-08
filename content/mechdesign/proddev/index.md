@@ -1,9 +1,9 @@
 ---
-title: "StochBiRo: Bipedal Robot"
+title: "E-Bike Conversion Kit"
 date: 2023-05-15
-external_link: "https://tayalmanan28.github.io/Stoch-BiRo/"
+external_link: "https://drive.google.com/file/d/15jEwwd02_15S_yLHRB8SrxGyxhLnB04S/view?usp=sharing"
 tags:
-  Legged Robots 
+  Product Development
 ---
 
 <!-- - Contributions:

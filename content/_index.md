@@ -104,6 +104,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['5px', '0', '5px', '0']
   - block: collection
+    id: Controls 
     content:
       title: ''
       text: ""
@@ -128,6 +129,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['5px', '0', '5px', '0']
   - block: collection
+    id: stateest
     content:
       title: ''
       text: ""
@@ -152,6 +154,7 @@ sections:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['5px', '0', '5px', '0']
   - block: collection
+    id: mba
     content:
       title: ''
       text: ""

@@ -14,13 +14,25 @@ main:
     url: /#experience
     weight: 20
   - name: Projects
-    identifier: tags
+    identifier: projects
     url: /#projects
     weight: 30
   - name: Mechanical Design
-    parent: tags
+    parent: projects
     url: /#mechdesign
+    weight: 20
+  - name: Controls
+    parent: projects
+    url: /#controls
     weight: 10
+  - name: State Estimation
+    parent: projects
+    url: /#stateest
+    weight: 40
+  - name: Berkeley Haas
+    parent: projects
+    url: /#mba
+    weight:30
   - name: Publications
     url: /#publication
     weight: 40

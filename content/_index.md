@@ -88,7 +88,7 @@ sections:
           - mechdesign
         exclude_featured: true
     design:
-      view: article-grid
+      view: showcase
       columns: 3
       fill_image: false
       spacing:

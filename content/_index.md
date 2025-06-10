@@ -90,7 +90,7 @@ sections:
         exclude_featured: true
     design:
       view: article-grid
-      columns: 1
+      columns: 2
       fill_image: false
       flip_alt_rows: true
       spacing:

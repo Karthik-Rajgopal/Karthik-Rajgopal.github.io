@@ -3,7 +3,6 @@ title: "Quadruped Leg Design"
 date: 2023-05-15
 external_link: ""
 tags:
-  Mechanical Design
   Legged Robots
 ---
 

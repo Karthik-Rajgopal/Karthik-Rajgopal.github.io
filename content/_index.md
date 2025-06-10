@@ -77,7 +77,7 @@ sections:
     design:  
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '-5px', '5px', '0']
+        padding: ['20px', '0px', '5px', '0']
   - block: collection
     id: mechdesign
     content:
@@ -90,8 +90,9 @@ sections:
         exclude_featured: true
     design:
       view: showcase
-      columns: 3
+      columns: 1
       fill_image: false
+      flip_alt_rows: true
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['5px', '0', '5px', '0']

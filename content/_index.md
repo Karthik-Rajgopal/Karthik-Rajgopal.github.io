@@ -89,7 +89,7 @@ sections:
           - mechdesign
         exclude_featured: true
     design:
-      view: showcase
+      view: card
       columns: 1
       fill_image: false
       flip_alt_rows: true

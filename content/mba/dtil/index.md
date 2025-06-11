@@ -6,5 +6,5 @@ tags:
   Deep Tech Commercialization
 ---
 
-Collaborated with MBA & LLM students to assess RSFQ circuit commercialization via market and patent analysis, backed by 25+ expert interviews (IBM, NVIDIA, Intel) across HPC, AI, and quantum security.
+Collaborated with MBA & LLM students to assess RSFQ circuit commercialization via market and patent analysis, backed by 25+ expert interviews across HPC, AI, and quantum security.
 <!--more-->

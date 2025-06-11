@@ -1,6 +1,6 @@
 ---
 title: "E-Bike Conversion Kit"
-date: 2023-05-15
+date: 2025-05-05
 external_link: "https://drive.google.com/file/d/15jEwwd02_15S_yLHRB8SrxGyxhLnB04S/view?usp=sharing"
 tags:
   Product Development

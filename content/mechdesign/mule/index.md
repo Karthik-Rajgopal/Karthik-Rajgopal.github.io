@@ -1,6 +1,6 @@
 ---
 title: "Quadruped Leg Design"
-date: 2023-05-15
+date: 2024-03-15
 external_link: https://www.strider-robotics.in/about
 tags:
   Legged Robots

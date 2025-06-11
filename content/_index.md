@@ -89,7 +89,7 @@ sections:
           - mechdesign
         exclude_featured: true
     design:
-      view: article-grid
+      view: showcase
       columns: 2
       fill_image: false
       flip_alt_rows: true

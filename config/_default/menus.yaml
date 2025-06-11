@@ -29,7 +29,7 @@ main:
     parent: projects
     url: /#stateest
     weight: 40
-  - name: Berkeley Haas
+  - name: Berkeley Haas (MBA)
     parent: projects
     url: /#mba
     weight: 30

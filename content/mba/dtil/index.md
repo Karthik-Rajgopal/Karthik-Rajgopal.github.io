@@ -6,4 +6,5 @@ tags:
   Deep Tech Commercialization
 ---
 
+Assessed commercialization pathways for RSFQ-based quantum circuits by analyzing market trends, patent landscapes, and strategic differentiators across HPC, AI, and quantum security. Conducted 25+ expert interviews (IBM, NVIDIA, Intel) to evaluate fit, validate use cases, and shape deep-tech go-to-market insights.
 <!--more-->

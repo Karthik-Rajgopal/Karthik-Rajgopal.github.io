@@ -6,4 +6,7 @@ tags:
   Deep Reinforcement Learning, Game Theory
 ---
 
+Designed autonomous drone racing policies that combine multi-agent RL, reachability analysis, and game theory to enable strategic decision-making in competitive settings.
+
+
 <!--more-->

@@ -6,4 +6,7 @@ tags:
   State Estimation
 ---
 
+Built a real-time state estimator using an Unscented Kalman Filter to track a bicycle’s motion with noisy sensor inputs and uncertain system parameters.
+
+
 <!--more-->

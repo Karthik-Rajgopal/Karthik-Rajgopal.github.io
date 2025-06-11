@@ -5,5 +5,4 @@ external_link: "https://drive.google.com/file/d/1KxrYn2VzI0Tqk71-3M3yu9F66p7aipy
 tags:
   Lean LaunchPad
 ---
-Validated a real estate platform with advanced CRM marketing, reduced liability for realtors and enhanced client agency through 130+ customer interviews.
-<!--more-->
+Worked with MBA teammates to validate a platform streamlining real estate workflows and client protection, shaped by insights from 130+ interviews with agents, buyers, and sellers.<!--more-->

@@ -116,7 +116,7 @@ sections:
         exclude_featured: false
     design:
       view: article-grid
-      columns: 3
+      columns: 2
       fill_image: false
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.

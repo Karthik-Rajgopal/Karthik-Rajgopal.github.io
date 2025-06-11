@@ -6,3 +6,4 @@ tags:
   Legged Robots 
 ---
 
+Led mechanical design of a modular 3-DoF-per-leg biped and supported RL-based control integration, achieving stable walking with low-cost actuation.

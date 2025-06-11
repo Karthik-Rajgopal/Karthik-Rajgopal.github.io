@@ -6,4 +6,6 @@ tags:
   Multi-Agent Coordination
 ---
 
+Developed a hybrid Voronoi-based controller that cuts sensing delays by 88% in emergency response tasks using coordinated UAV-UGV coverage in 2D/3D Python simulations.
+
 <!--more-->

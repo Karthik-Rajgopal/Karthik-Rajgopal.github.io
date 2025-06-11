@@ -6,6 +6,7 @@ tags:
   Model Predictive Control
 ---
 
+Built a Python-based MPC planner for parallel parking, tuning costs and constraints to achieve <5 cm error and smooth, reliable parking trajectories.
 <!-- - Contributions:
   - Developed the CAD of the biped using SolidWorks and assembled the whole robot.
   - Iteratively prototyped throughout the project using 3D printing (FDM). 
